@@ -67,6 +67,7 @@
     "utility": "cpp",
     "vector": "cpp",
     "valarray": "cpp",
-    "queue": "cpp"
+    "queue": "cpp",
+    "list": "cpp"
   }
 }
